@@ -20,7 +20,8 @@
   },
   "engines": {
     "node": "9.11.1"
-  }
+  },
+  
   "author": "bin wei",
   "license": "ISC"
 }
