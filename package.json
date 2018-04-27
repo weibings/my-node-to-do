@@ -16,12 +16,12 @@
   "devDependencies": {},
   "scripts": {
     "start": "node server/server.js",
-    "test": "export NODE_ENV=test && mocha **/*.test.js"
+    "test": "export NODE_ENV=test && mocha server/**/*.test.js"
   },
   "engines": {
     "node": "9.11.1"
   },
-  
+
   "author": "bin wei",
   "license": "ISC"
 }
